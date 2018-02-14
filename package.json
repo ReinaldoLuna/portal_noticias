@@ -1,0 +1,20 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Projeto curso nodeJS",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reinaldo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-validator": "^3.2.0",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.14.12"
+  }
+}
